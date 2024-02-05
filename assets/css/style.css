@@ -21,7 +21,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p {
   font-family: "Montserrat", sans-serif;
 }
 
@@ -653,8 +654,8 @@ section {
 
 .contact .info-box p {
   padding: 0;
-  line-height: 24px;
-  font-size: 14px;
+  /* line-height: 24px; */
+  font-size: 20px;
   margin-bottom: 0;
 }
 
