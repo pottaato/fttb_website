@@ -7,12 +7,12 @@ body {
 }
 
 a {
-  color: #ff4a17;
+  color: #fdb931;
   text-decoration: none;
 }
 
 a:hover {
-  color: #ff724a;
+  color: #fdb931;
   text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ff4a17;
+  background: #fdb931;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -47,7 +47,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #ff6a40;
+  background: #fdb931;
   color: #fff;
 }
 
@@ -73,7 +73,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #ff4a17;
+  border: 6px solid #fdb931;
   border-top-color: #ffe9e3;
   border-radius: 50%;
   width: 60px;
@@ -181,7 +181,7 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #ff4a17;
+  background-color: #fdb931;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -213,8 +213,8 @@ h6 {
 .navbar .nav-cta-btn:hover,
 .navbar .nav-cta-btn:focus:hover {
   color: #fff;
-  background: #fd3800;
-  border-color: #ff4a17;
+  background: #fdb931;
+  border-color: #fdb931;
 }
 
 .navbar>ul>li>.nav-cta-btn:before {
@@ -283,7 +283,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ff4a17;
+  color: #fdb931;
 }
 
 .navbar-mobile .nav-cta-btn,
@@ -318,7 +318,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #ff4a17;
+  color: #fdb931;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -329,7 +329,7 @@ h6 {
 #heading {
   width: 100%;
   height: 100vh;
-  background: url("../img/header-bg.jpg") top center;
+  background: url("../img/fttb-header-bg.jpeg") top center;
   background-size: cover;
   position: relative;
   padding: 0;
@@ -383,8 +383,8 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #ff4a17;
-  border: 2px solid #ff4a17;
+  background: #fdb931;
+  border: 2px solid #fdb931;
 }
 
 #heading .heading-cta-btn:hover {
@@ -443,7 +443,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #ff8664;
+  background: #fdb931;
   margin: 4px 10px;
 }
 
@@ -453,7 +453,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #263d4d;
 }
 
@@ -505,7 +505,7 @@ section {
   /* padding-top: 5px; */
   padding: 10px;
   text-align: center;
-  background-color: #ff4a17;
+  background-color: #fdb931;
   border-radius: 4px;
   text-align: center;
   border: 4px solid #fff;
@@ -527,7 +527,7 @@ section {
 }
 
 .about-boxes .card-title a:hover {
-  color: #ff4a17;
+  color: #fdb931;
 }
 
 .about-boxes .card-text {
@@ -536,7 +536,7 @@ section {
 
 .about-boxes .card:hover .card-icon i {
   background: #fff;
-  color: #ff4a17;
+  color: #fdb931;
 }
 
 @media (max-width: 1024px) {
@@ -615,7 +615,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #ff4a17;
+  color: #fdb931;
 }
 
 .team .member .social i {
@@ -639,7 +639,7 @@ section {
 
 .contact .info-box i {
   font-size: 32px;
-  color: #ff4a17;
+  color: #fdb931;
   border-radius: 50%;
   padding: 8px;
 }
@@ -660,7 +660,7 @@ section {
 
 /* #### DISCLAIMER: FORM WILL NOT WORK PROPERLY #### */
 
-.contact .email-form {
+/* .contact .email-form {
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   padding: 30px;
 }
@@ -738,7 +738,7 @@ section {
 
 .contact .email-form button[type=submit]:hover {
   background: #ff5e31;
-}
+} */
 
 @keyframes animate-loading {
   0% {
