@@ -113,11 +113,10 @@ p {
 }
 
 #header .logo {
-  font-size: 32px;
-  margin: 0;
+  font-size: 20px;
   padding: 0;
   line-height: 1;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 2px;
 }
 
