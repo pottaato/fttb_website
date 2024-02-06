@@ -1,4 +1,4 @@
 # fttb_website
 
-## Last update: Initial design 2024/02/05
-## Notes: Need imgs.
+## Initialized 2024/02/05
+## Content: https://docs.google.com/document/d/1kEpP1ss1BsH8nVfGkpJwvSTaacoZZaQvk3q1NsUsMXk/edit?usp=sharing
