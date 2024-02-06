@@ -556,7 +556,7 @@ section {
 }
 
 .team .member {
-  margin-bottom: 80px;
+  margin-bottom: 1000px;
   position: relative;
 }
 
@@ -600,13 +600,19 @@ section {
 .team .member span {
   font-style: italic;
   display: block;
-  font-size: 13px;
+  font-size: 15px;
+}
+
+
+.team .member span .member-desc {
+  display: block;
+  font-size: 2px;
 }
 
 .team .member .social {
   position: absolute;
   right: 15px;
-  bottom: 15px;
+  bottom: 16px;
 }
 
 .team .member .social a {
@@ -619,7 +625,7 @@ section {
 }
 
 .team .member .social i {
-  font-size: 16px;
+  font-size: 20px;
   margin: 0 2px;
 }
 
