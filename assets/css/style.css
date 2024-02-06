@@ -556,7 +556,7 @@ section {
 }
 
 .team .member {
-  margin-bottom: 1000px;
+  margin-bottom: 80px;
   position: relative;
 }
 
@@ -604,15 +604,10 @@ section {
 }
 
 
-.team .member span .member-desc {
-  display: block;
-  font-size: 2px;
-}
-
 .team .member .social {
   position: absolute;
-  right: 15px;
-  bottom: 16px;
+  right: 13px;
+  bottom: 13px;
 }
 
 .team .member .social a {
