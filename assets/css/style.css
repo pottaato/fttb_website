@@ -758,10 +758,17 @@ section {
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
+  align-items: center;
+}
+
+#footer .foot-nav {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 30px;
 }
 
 #footer .copyright {
   text-align: center;
   font-family: "Montserrat", sans-serif;
-  padding-top: 30px;
+  padding-top: 14px;
 }
