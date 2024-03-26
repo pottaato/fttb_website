@@ -373,11 +373,16 @@ p {
   color: #fff;
 }
 
-/* #heading h2 {
+#heading h2 {
   color: #eee;
   margin-bottom: 50px;
   font-size: 24px;
-} */
+}
+
+#heading h2 a:hover {
+  color: #fdb931;
+  text-decoration: underline;
+}
 
 #heading .heading-cta-btn {
   font-family: "Montserrat", sans-serif;
@@ -517,11 +522,6 @@ section {
   background: #444;
   cursor: pointer;
 }
-
-/* .about-cta-btn a {
-  color: #444;
-} */
-
 
 .about-boxes .card {
   border-radius: 3px;
